@@ -1,6 +1,6 @@
 Anggota: 
 1. M. Hafizh Al Kautsar - 103022300069
-2. Muhammad Akbar Alfarizi - 103022300058
+2. Muhammad Akbar Alfarizi - 103022300078
 </br>
 Terdapat sebuah tangga yang memiliki (N) anak tangga. Kita bisa melangkahi satu anak tangga atau dua anak tangga sekaligus. Sehingga setiap jumlah cara untuk menaikinya bergantung pada pola tersebut. Tugasnya adalah untuk mencari berapa banyak variasi langkah (X) untuk menaiki tangga tersebut. </br>
 Contoh: </br>
